@@ -16,6 +16,7 @@
 		C41B49CB29118B360053B213 /* BasicARAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41B49CA29118B360053B213 /* BasicARAppTests.swift */; };
 		C41B49D529118B360053B213 /* BasicARAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41B49D429118B360053B213 /* BasicARAppUITests.swift */; };
 		C41B49D729118B360053B213 /* BasicARAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41B49D629118B360053B213 /* BasicARAppUITestsLaunchTests.swift */; };
+		C41B49E42911917C0053B213 /* LemonMeringuePie.usdz in Resources */ = {isa = PBXBuildFile; fileRef = C41B49E32911917C0053B213 /* LemonMeringuePie.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		C41B49D029118B360053B213 /* BasicARAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasicARAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C41B49D429118B360053B213 /* BasicARAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicARAppUITests.swift; sourceTree = "<group>"; };
 		C41B49D629118B360053B213 /* BasicARAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicARAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C41B49E32911917C0053B213 /* LemonMeringuePie.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = LemonMeringuePie.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				C41B49B429118B330053B213 /* AppDelegate.swift */,
 				C41B49B629118B330053B213 /* ViewController.swift */,
+				C41B49E32911917C0053B213 /* LemonMeringuePie.usdz */,
 				C41B49B829118B340053B213 /* Experience.rcproject */,
 				C41B49BA29118B340053B213 /* Main.storyboard */,
 				C41B49BD29118B360053B213 /* Assets.xcassets */,
@@ -231,6 +234,7 @@
 			files = (
 				C41B49C129118B360053B213 /* LaunchScreen.storyboard in Resources */,
 				C41B49BE29118B360053B213 /* Assets.xcassets in Resources */,
+				C41B49E42911917C0053B213 /* LemonMeringuePie.usdz in Resources */,
 				C41B49BC29118B340053B213 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
